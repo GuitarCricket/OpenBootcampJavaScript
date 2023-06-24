@@ -1,0 +1,15 @@
+{
+  "name": "openbootcamp-javascript",
+  "version": "1.0.0",
+  "description": "Mi primer uso de node js en openBootcamp",
+  "main": "index.js",
+  "scripts": {
+    "hola": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "Hector Sanchez GuitarCricket",
+  "license": "ISC"
+}
