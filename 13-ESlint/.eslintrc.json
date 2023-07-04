@@ -1,0 +1,9 @@
+{
+    "parserOptions": {
+      "ecmaVersion": "latest"
+    },
+    "rules": {
+      "quotes": ["error", "double"]
+    }
+  }
+  
